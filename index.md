@@ -14,8 +14,8 @@ Bu sayfa üzerinden bana hızlıca mesaj gönderebilirsiniz.
 
 <script>
 function sendToTelegram() {
-    const token = "8314569653:AAED55qPPxKwV01z_7XmXOW-Pn0M1mz1nGg"; // BotFather'dan aldığın token
-    const chat_id = "6191980329"; // userinfobot'tan aldığın ID
+    const token = "token"; // BotFather'dan aldığın token
+    const chat_id = "id"; // userinfobot'tan aldığın ID
     const name = document.getElementById('name').value;
     const message = document.getElementById('message').value;
     const status = document.getElementById('status');
@@ -51,3 +51,4 @@ function sendToTelegram() {
 1. Yukarıdaki formda bilgileri doldurun.
 2. "Gönder" butonuna basın.
 3. Mesaj anında Telegram hesabıma düşecektir.
+
