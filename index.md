@@ -1,12 +1,7 @@
-# Merhaba, Ben [Adın]! 👋
+# illuzyonn'un Web Sitesine Hoş Geldiniz! 🚀
 
-Bu benim **Markdown** ile hazırladığım ilk web sitem. Hiç HTML kullanmadım!
+Bu benim ilk **Markdown** sitem. 
 
-## Neler Yapıyorum?
-* Yazılım öğreniyorum
-* Kitap okuyorum
-* Yeni teknolojileri takip ediyorum
-
-> "Kod yazmak sanatın dijital halidir."
-
-[Bana Instagram'dan Ulaş](https://instagram.com/kullaniciadin)
+* [x] HTML yok
+* [x] Karmaşık kod yok
+* [x] Sadece Markdown!
